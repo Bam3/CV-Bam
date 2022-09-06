@@ -1,0 +1,106 @@
+{
+  "basics": {
+    "name": "Miha Bastašič",
+    "label": "Electrical Engineer - HVAC developer",
+    "summary": "**Electrical engineer with 5 years of experience in the automation of industrial processes.**",
+    "phone": "+386 04 557 260",
+    "email": "bastasic.miha@gmail.com",
+    "picture": "",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "Bam3",
+        "url": "https://github.com/Bam3"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Metronik d.o.o.",
+      "website": "http://www.metronik.si",
+      "position": "Internship",
+      "startDate": "2012-04",
+      "endDate": "2012-06",
+      "summary": "Getting to know the work process and tools for application development.",
+      "highlights": [
+        "Production of smaller parts of projects",
+        "UI development - Proficy HMI/SCADA-iFIX",
+        "Fieldwork"
+      ]
+    },
+    {
+      "company": "Metronik d.o.o.",
+      "website": "http://www.metronik.si",
+      "position": "Student Internship",
+      "startDate": "2012-06",
+      "endDate": "2013-04",
+      "summary": "Assistance in the implementation of HVAC (Heating, ventilation and air conditioning) systems in manufacturing facilities in the pharmaceutical industry.",
+      "highlights": [
+        "UI development - Proficy HMI/SCADA-iFIX",
+        "Writing testing documentation",
+        "Application testing"
+      ]
+    },
+    {
+      "company": "Metronik d.o.o.",
+      "website": "http://www.metronik.si",
+      "position": "Project Engineer",
+      "startDate": "2013-04",
+      "summary": "Developing software and designing architecture for HVAC systems in manufacturing facilities in the pharmaceutical industry.",
+      "highlights": [
+        "PLC development - Proficy Machine Edition",
+        "UI development - Proficy HMI/SCADA-iFIX",
+        "Writing technical and testing documentation according to GAMP5 guidlines",
+        "Automatization of work processes with VBA Macro script",
+        "Maintenance of existing systems"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Maribor, Faculty of Electrical Engineering and Computer Science",
+      "courses": [
+        "Specialization: Industrial Automatization"
+      ],
+      "startDate": "2006-09",
+      "endDate": "2016-10",
+      "area": "Electrical Engineering",
+      "studyType": ""
+    },
+    {
+      "institution": "Šolski center Celje",
+      "courses": [
+        "Programme: Electrotechnician"
+      ],
+      "startDate": "2002-09",
+      "endDate": "2006-06",
+      "area": "",
+      "studyType": ""
+    }
+  ],
+  "interests": [
+    {
+      "name": "Web Development",
+      "summary": "In my free time I'm learning about JavaScript/HTML/CSS. I developed a simple web application used to analyze household finances.",
+      "keywords": [
+        "JavaScript",
+        "HTML5",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Outdoor Sports",
+      "summary": "I'm an avid rock climber and on weekends I often go hiking or ride my bike."
+    }
+  ],
+  "languages": [
+    {
+      "language": "Slovenian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Moderate"
+    }
+  ]
+}
