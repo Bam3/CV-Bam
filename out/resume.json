@@ -2,7 +2,7 @@
   "basics": {
     "name": "Miha Bastašič",
     "label": "Electrical Engineer - HVAC developer",
-    "summary": "**Electrical engineer with 5 years of experience in the automation of industrial processes.**",
+    "summary": "**Electrical engineer with 10 years of experience in the automation of industrial processes.**",
     "phone": "+386 04 557 260",
     "email": "bastasic.miha@gmail.com",
     "picture": "",
@@ -46,10 +46,25 @@
       "website": "http://www.metronik.si",
       "position": "Project Engineer",
       "startDate": "2013-04",
+      "endDate": "2017-03",
       "summary": "Developing software and designing architecture for HVAC systems in manufacturing facilities in the pharmaceutical industry.",
       "highlights": [
         "PLC development - Proficy Machine Edition",
         "UI development - Proficy HMI/SCADA-iFIX",
+        "Writing technical and testing documentation according to GAMP5 guidlines",
+        "Automatization of work processes with VBA Macro script",
+        "Maintenance of existing systems"
+      ]
+    },
+    {
+      "company": "Metronik d.o.o.",
+      "website": "http://www.metronik.si",
+      "position": "Lead Project Engineer",
+      "startDate": "2017-03",
+      "summary": "Managing small to large projects for automatization of HVAC system in manufacturing facilities in pharmacuticla industry and smart buildings.",
+      "highlights": [
+        "Writing design specification documentation according to GEP and GAMP5 guidelines",
+        "Coordination of projects and project documentation with clients to ensure certain requirements",
         "Writing technical and testing documentation according to GAMP5 guidlines",
         "Automatization of work processes with VBA Macro script",
         "Maintenance of existing systems"
