@@ -66,17 +66,15 @@
         "Writing design specification documentation according to GEP and GAMP5 guidelines",
         "Coordination of projects and project documentation with clients to ensure certain requirements",
         "Writing technical and testing documentation according to GAMP5 guidlines",
-        "Automatization of work processes with VBA Macro script",
-        "Maintenance of existing systems"
+        "Automatization of work processes",
+        "izdelava in dokumentiranje orodij za avtomatizacijo ponavljajočih delovnih procesov za zagotavljanje hitre in natančne izvedbe projekta"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Maribor, Faculty of Electrical Engineering and Computer Science",
-      "courses": [
-        "Specialization: Industrial Automatization"
-      ],
+      "courses": ["Specialization: Industrial Automatization"],
       "startDate": "2006-09",
       "endDate": "2016-10",
       "area": "Electrical Engineering",
@@ -84,9 +82,7 @@
     },
     {
       "institution": "Šolski center Celje",
-      "courses": [
-        "Programme: Electrotechnician"
-      ],
+      "courses": ["Programme: Electrotechnician"],
       "startDate": "2002-09",
       "endDate": "2006-06",
       "area": "",
@@ -97,15 +93,11 @@
     {
       "name": "Web Development",
       "summary": "In my free time I'm learning about JavaScript/HTML/CSS. I developed a simple web application used to analyze household finances.",
-      "keywords": [
-        "JavaScript",
-        "HTML5",
-        "CSS"
-      ]
+      "keywords": ["JavaScript", "HTML5", "CSS"]
     },
     {
       "name": "Outdoor Sports",
-      "summary": "I'm an avid rock climber and on weekends I often go hiking or ride my bike."
+      "summary": "I'm an avid road bike rider and on weekends I often go hiking or rock climbing."
     }
   ],
   "languages": [
