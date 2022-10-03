@@ -66,8 +66,7 @@
         "Writing design specification documentation according to GEP and GAMP5 guidelines",
         "Coordination of projects and project documentation with clients to ensure certain requirements",
         "Writing technical and testing documentation according to GAMP5 guidlines",
-        "Automatization of work processes",
-        "izdelava in dokumentiranje orodij za avtomatizacijo ponavljajočih delovnih procesov za zagotavljanje hitre in natančne izvedbe projekta"
+        "Writing internal documentation and instructions for PLC development using Atlassian Confluence"
       ]
     }
   ],
@@ -93,7 +92,7 @@
     {
       "name": "Web Development",
       "summary": "In my free time I'm learning about JavaScript/HTML/CSS. I developed a simple web application used to analyze household finances.",
-      "keywords": ["JavaScript", "HTML5", "CSS"]
+      "keywords": ["JavaScript", "HTML5", "CSS", "MongoDB", "Mongoose", "Heroku", "MongoDB Atlas"]
     },
     {
       "name": "Outdoor Sports",
